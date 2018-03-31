@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/iconictest/app/design/frontend/TemplateMonster/framework/web/js/responsive.js

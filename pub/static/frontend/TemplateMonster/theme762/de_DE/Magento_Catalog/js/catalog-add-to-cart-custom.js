@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/iconictest/app/design/frontend/TemplateMonster/theme762/Magento_Catalog/web/js/catalog-add-to-cart-custom.js

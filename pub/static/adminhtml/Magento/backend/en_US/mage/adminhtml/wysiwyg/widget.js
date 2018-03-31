@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/iconictest/lib/web/mage/adminhtml/wysiwyg/widget.js

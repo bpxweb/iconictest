@@ -1,0 +1,4 @@
+~/var/*
+~/.gitignore
+.DS_Store
+var/

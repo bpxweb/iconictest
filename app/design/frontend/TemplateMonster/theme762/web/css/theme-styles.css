@@ -6799,7 +6799,7 @@ dl.custom-page dd {
 @media (min-width: 768px) {
   .side-navbar {
     top: 0;
-    background: #851f2e;
+    background: #fff;
   }
 }
 @media (min-width: 1260px) {
